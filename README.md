@@ -1,4 +1,4 @@
-# :pushpin: justSkin
+# :sake: justSkin
 >화장품(스킨케어 전문) 쇼핑몰
 >http://itwillbs4.cafe24.com/ShoppingMall/Main.me
 
