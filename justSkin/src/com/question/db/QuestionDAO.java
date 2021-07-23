@@ -21,15 +21,7 @@ public class QuestionDAO {
 	private PreparedStatement pstmt = null;
 	private ResultSet rs = null;
 	private String sql = "";
-	
-	
-	//-----------DB 드라이버 정보--------------------
-	/*final String DRIVER = "com.mysql.jdbc.Driver";
-	final String DBURL = "jdbc:mysql://localhost:3306/cosshopping";
-	final String DBID = "root";
-	final String DBPW = "1234";*/
-	
-	
+
 	private Connection getConnection() {
 		// 커넥션 풀 (Connection pool) : 미리 연결정보(connection)을 생성해서 저장 후 사용(pool) -> 사용 후 반납
 		// Context 객체를 생성 (현재 프로젝트 정보를 가지고 있는 객체)

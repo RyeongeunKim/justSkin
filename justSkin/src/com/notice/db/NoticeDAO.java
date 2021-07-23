@@ -34,7 +34,6 @@ public class NoticeDAO {
 	public void deleteNotice(String noticeNum){
 		noticeDelete Dobbynoti = new noticeDelete();
 		Dobbynoti.doit(noticeNum);
-		//도비는 자유에요!
 	}
 	public void updateNotice(noticeDTO noti){
 		noticeUpdate Dobbynoti = new noticeUpdate();
