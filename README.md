@@ -60,8 +60,7 @@
 >- 제품&쿠폰을 직접 등록, 수정, 삭제할 수 있으며 상품이 준비됨에 따라 주문상태를 변경할 수 있습니다.<br>
 
 ![admin](https://user-images.githubusercontent.com/80612679/126475151-6c10a2e1-041d-4d2f-895a-a71b377c982b.png)
-![admin](https://user-images.githubusercontent.com/80612679/126985134-3f79293b-2b95-4903-b7ad-a469a80989e1.png)
-
+![admin](https://user-images.githubusercontent.com/80612679/126985345-c27ff946-c634-4939-adda-25c6948c31c8.png)
 
 >**장바구니**<br>
 >- 제품 상세페이지에서 장바구니/구매 버튼을 누르면 장바구니에 상품이 담깁니다.<br>
